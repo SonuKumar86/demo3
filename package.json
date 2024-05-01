@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "husky-init": "^8.0.0"
+  },
+  "devDependencies": {
+    "husky": "^9.0.11"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
